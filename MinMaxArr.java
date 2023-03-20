@@ -1,6 +1,5 @@
 #finding minimum and maximum element in 2d array
 import java.util.Scanner;
-
 public class MinMaxArr {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -31,6 +30,7 @@ public class MinMaxArr {
                 }
             }
         }
+#this is printing statement
         System.out.println("max elenent is: "+max);
         System.out.println("min element is : "+min);
     }
