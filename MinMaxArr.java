@@ -1,3 +1,4 @@
+#finding minimum and maximum element in 2d array
 import java.util.Scanner;
 
 public class MinMaxArr {
